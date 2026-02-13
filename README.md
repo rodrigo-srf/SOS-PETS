@@ -120,9 +120,9 @@ MIT License
 
 - [Rodrigo Serafim](https://github.com/rodrigo-srf)
 - [Dayane Stefhany](https://github.com/nome-de-usuario-da-dayane)
-- [Brandon Lee](https://github.com/nome-de-usuario-do-brandon)
-- [Beatriz Lima](https://github.com/nome-de-usuario-da-beatriz)
-- [Gabriel Carmo](https://github.com/nome-de-usuario-do-gabriel)
+- [Brandon Lee](https://github.com/Devbrandlee)
+- [Beatriz Lima](https://github.com/beadlim)
+- [Gabriel Carmo](https://github.com/gabriel-souzacarmo)
 - [Jonas Oliveira](https://github.com/nome-de-usuario-do-jonas)  
 
 ---
