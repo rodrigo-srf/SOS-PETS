@@ -118,18 +118,18 @@ MIT License
 
 ## 👥 Equipe S.O.S PETS
 
-Rodrigo Serafim   
-Dayane Stefhany  
-Brandon Lee  
-Beatriz Lima  
-Gabriel Carmo  
-Jonas Oliveira  
+- [Rodrigo Serafim](https://github.com/rodrigo-srf)
+- [Dayane Stefhany](https://github.com/nome-de-usuario-da-dayane)
+- [Brandon Lee](https://github.com/nome-de-usuario-do-brandon)
+- [Beatriz Lima](https://github.com/nome-de-usuario-da-beatriz)
+- [Gabriel Carmo](https://github.com/nome-de-usuario-do-gabriel)
+- [Jonas Oliveira](https://github.com/nome-de-usuario-do-jonas)  
 
 ---
 
 <div align="center">
-<img src="./images/logo_edn.jpeg" width="150"/>
-<img src="./images/logo_aws.png" width="150"/>
+<img src="./images/sos_pets.jpeg" width="150"/>
+<img src="./images/logo.png" width="150"/>
 
 <br><br>
 
