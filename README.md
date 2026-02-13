@@ -6,7 +6,7 @@
 
 ## 📋 Sobre o Projeto
 
-O **S.O.S Pets** é uma aplicação inteligente projetada para dar voz aos animais abandonados. Utilizando **IA Generativa** e **Visão Computacional**, transformamos fotos em campanhas de adoção profissionais, humanizadas e prontas para redes sociais.
+O **S.O.S Pets** é uma aplicação inteligente projetada para dar voz aos animais abandonados. Utilizando **IA Generativa** e **Visão Computacional**, transformamos fotos em campanhas de adoção profissionais, humanizadas e prontas para as redes sociais.
 
 > **"A tecnologia descreve, o amor adota."**
 
