@@ -55,12 +55,13 @@ Tecnologias utilizadas:
 
 ```text
 SOS-PETS/
-├── app.py
-├── functions.py
-├── requirements.txt
-├── run.sh
-├── assets/
-└── images/
+├── app.py                 # Aplicação principal Streamlit
+├── functions.py           # Integração com Amazon Bedrock e lógica de IA
+├── auth_middleware.py     # Middleware de autenticação
+├── requirements.txt       # Dependências do sistema
+├── .env                   # Variáveis de ambiente
+├── .gitignore             # Arquivos ignorados pelo Git
+└── images/                # Logos e capturas de tela do sistema
 ```
 
 ---
@@ -128,8 +129,8 @@ MIT License
 ---
 
 <div align="center">
-<sub>"Transformando sinais em dados, e dados em decisões."</sub>
+"Transformando sinais em dados, e dados em decisões."
 <br><br>
-<img src="./images/sos_pets.jpg" width="150"/>
-<img src="./images/logo.jpeg" width="150"/>
+<img src="./images/sos_pets.jpg" width="250"/>
+<img src="./images/logo.jpeg" width="250"/>
 </div>
