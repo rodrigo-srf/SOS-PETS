@@ -1,43 +1,43 @@
-🐾 S.O.S Pets — Chatbot com IA para Apoio à Adoção Animal
+# 🐾 S.O.S Pets — Inteligência Artificial a Serviço da Adoção Animal
 
-Projeto em grupo | Escola da Nuvem + AWS re/Start
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=S.O.S%20PETS&fontSize=80&animation=fadeIn">
+</p>
 
-Desenvolvimento de uma solução baseada em Inteligência Artificial para auxiliar na divulgação de animais em situação de abandono, automatizando a geração de descrições atrativas para redes sociais a partir de imagens.
+## 📋 Sobre o Projeto
+O **S.O.S Pets** é uma aplicação inteligente projetada para dar voz aos animais abandonados. Utilizando **IA Generativa** e **Visão Computacional**, transformamos fotos em campanhas de adoção profissionais, humanizadas e prontas para as redes sociais.
 
-🎯 Contexto do Problema
+> **"A tecnologia descreve, o amor adota."**
 
-O Brasil possui mais de 30 milhões de animais abandonados. Muitos são resgatados, mas enfrentam dificuldade de adoção devido à falta de divulgação eficiente e padronizada.
+---
 
-💡 Solução Desenvolvida
+## 🎯 O Desafio
+O Brasil possui mais de **30 milhões de animais abandonados**. Muitas vezes, o resgate acontece, mas o animal permanece invisível por falta de uma divulgação atrativa. Nossa ferramenta resolve esse gargalo automatizando a criação de anúncios cativantes.
 
-Criação de um chatbot inteligente capaz de:
+---
 
-Receber upload de imagens
+## 🛠️ Stack Tecnológica
+* **IA Engine:** Amazon Bedrock (Modelo: Claude Sonnet 4.0)
+* **Interface:** Streamlit (Python)
+* **Infraestrutura:** AWS (Amazon EC2)
+* **Processamento:** Python 3.12
+* **Gestão:** Metodologias Ágeis (Kanban/Scrum via Trello)
 
-Analisar a foto com IA
+---
 
-Inferir características como raça e porte
+## ✨ Funcionalidades Principais
+* 📸 **Análise de Imagem:** Upload e inferência automática de raça, porte e características físicas.
+* 🤖 **Prompt Engineering:** Geração de descrições empáticas, interativas e persuasivas.
+* 🛡️ **Filtro de Segurança:** Identificação automática e redirecionamento de animais silvestres para órgãos ambientais.
+* 💬 **Chat Humanizado:** Interface interativa com suporte a histórico de pesquisas.
 
-Gerar descrições personalizadas e humanizadas para redes sociais
+---
 
-Direcionar casos específicos (ex: animais silvestres) para órgãos competentes
-
-🛠 Tecnologias Utilizadas
-
-☁️ Cloud: Amazon Web Services (Amazon EC2)
-
-🤖 IA Generativa: Amazon Bedrock + Claude Sonnet 4.0
-
-💻 Desenvolvimento: Python + Streamlit
-
-📊 Metodologia Ágil: Kanban/Scrum com Trello
-
-🚀 Resultados
-
-Upload e processamento de imagens funcional
-
-Respostas geradas pela IA de forma contextualizada e humanizada
-
-Interface intuitiva em modo escuro com histórico de interações
-
-Fluxo completo validado com sucesso
+## 🏗️ Estrutura do Projeto
+```text
+SOS-PETS/
+├── app.py              # Aplicação principal Streamlit
+├── functions.py        # Integração com Amazon Bedrock e lógica de IA
+├── requirements.txt    # Dependências do sistema
+├── run.sh              # Script de inicialização
+└── assets/             # Logos e documentação do projeto
