@@ -128,8 +128,8 @@ MIT License
 ---
 
 <div align="center">
-<img src="./images/sos_pets.jpeg" width="150"/>
-<img src="./images/logo.png" width="150"/>
+<img src="./images/sos_pets.jpg" width="150"/>
+<img src="./images/logo.jpeg" width="150"/>
 
 <br><br>
 
