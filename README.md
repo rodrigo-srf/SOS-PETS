@@ -128,10 +128,8 @@ MIT License
 ---
 
 <div align="center">
+<sub>"Transformando sinais em dados, e dados em decisões."</sub>
+<br><br>
 <img src="./images/sos_pets.jpg" width="150"/>
 <img src="./images/logo.jpeg" width="150"/>
-
-<br><br>
-
-<sub>"Transformando sinais em dados, e dados em decisões."</sub>
 </div>
