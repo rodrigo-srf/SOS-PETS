@@ -120,11 +120,11 @@ MIT License
 ## 👥 Equipe S.O.S PETS
 
 - [Rodrigo Serafim](https://github.com/rodrigo-srf)
-- [Dayane Stefhany](https://github.com/nome-de-usuario-da-dayane)
+- [Dayane Stefhany](https://github.com/daystefhany)
 - [Brandon Lee](https://github.com/Devbrandlee)
 - [Beatriz Lima](https://github.com/beadlim)
 - [Gabriel Carmo](https://github.com/gabriel-souzacarmo)
-- [Jonas Oliveira](https://github.com/nome-de-usuario-do-jonas)  
+- [Jonas Oliveira](https://github.com/jonasoliveira011)  
 
 ---
 
